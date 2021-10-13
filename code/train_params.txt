@@ -1,2 +1,2 @@
-'mnist' 5 50 32 10 '/home/nhalliwe/prototype-explanations/weights/'
-'ca_housing' 2 50 32 4 '/home/nhalliwe/prototype-explanations/weights/'
+'mnist' 'no' 5 50 32 10 '/home/nhalliwe/prototype-explanations/weights/'
+'ca_housing' 'no' 2 50 32 4 '/home/nhalliwe/prototype-explanations/weights/'
