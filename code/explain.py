@@ -20,7 +20,3 @@ def explain(X_test,num_iter,size,p0,p1,encoder,decoder,seed):
     diff = np.abs(x_test_decoded - rand_decoded)
     
     return diff
-
-# if __name__ == "__main__":
-
-#     explain(X_test,size,p,encoder,decoder,seed)
