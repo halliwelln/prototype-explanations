@@ -1,5 +1,7 @@
 ## The Need for Empirical Evaluation of Explanation Quality
 
+
+```
 @inproceedings{halliwell:hal-03591012,
   TITLE = {{The Need for Empirical Evaluation of Explanation Quality}},
   AUTHOR = {Halliwell, Nicholas and Gandon, Fabien and Lecue, Freddy and Villata, Serena},
@@ -12,3 +14,4 @@
   HAL_ID = {hal-03591012},
   HAL_VERSION = {v1},
 }
+```
