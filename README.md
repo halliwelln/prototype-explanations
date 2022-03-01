@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## The Need for Empirical Evaluation of Explanation Quality
 
 @inproceedings{halliwell:hal-03591012,
@@ -13,6 +12,3 @@
   HAL_ID = {hal-03591012},
   HAL_VERSION = {v1},
 }
-=======
-# The Need for Empirical Evaluation of Explanation Quality
->>>>>>> 075334687eb9fc849f5f638774b946ddd43b6ebf
